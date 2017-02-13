@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <!-- esta estiqueta es para comentarios -->
+    <title>Mi primer pagina web</title>
+</head>
+<body>
+    <strong>hola soy  el mejor desarrollador 
+	web del mundo</strong>
+    <p id="titulo"> 
+            Hola mundo!!!. =) 
+    </p>
+    <ul>
+	<li class="equipo">
+	    Liga
+	</li>
+	<li class="equipo">
+	    Heredia
+	</li>
+	<li class="equipo">
+	    Cartago
+	</li>
+	<li class="equipo">
+	    San Carlos
+	</li>
